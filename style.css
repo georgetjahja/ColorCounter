@@ -1,0 +1,29 @@
+div.images {
+    display: table;
+    width: 60%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.images span {
+    display: table-cell;
+    text-align: center;
+}
+
+div.buttons {
+    display: table;
+    width: 60%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.buttons span {
+    display: table-cell;
+    text-align: center;
+}
+
+div.resetbutton {
+    display: table;
+    width: 60%;
+    table-layout: fixed;    /* For cells of equal size */
+}
+div.resetbutton span {
+    display: table-cell;
+    text-align: center;
+}
